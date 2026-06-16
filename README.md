@@ -142,9 +142,3 @@ http://localhost:31793 | Access using nodeport
 
 - Longhorn Documentation
 - Kubernetes Storage Documentation
-
-## Author
-
-Abhay Dandge
-
-LinkedIn: https://www.linkedin.com/in/abhaydandge/
